@@ -13,7 +13,7 @@ import static io.restassured.RestAssured.given;
 
 public class API_Test
 {
-	//@Test
+	@Test
 	public void Testcase1() {
 		RequestSpecification request = RestAssured.given();
 		RestAssured.baseURI = "https://jsonplaceholder.typicode.com";
