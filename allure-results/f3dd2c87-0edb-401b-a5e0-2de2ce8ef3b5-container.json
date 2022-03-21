@@ -1,0 +1,1 @@
+{"uuid":"f3dd2c87-0edb-401b-a5e0-2de2ce8ef3b5","name":"VOIS","children":["49b6b54f-5abb-46b0-9e90-b71a1815f17a"],"befores":[{"name":"Test_Base","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1645444451593,"stop":1645444454328}],"afters":[],"start":1645444451585,"stop":1645444484484}

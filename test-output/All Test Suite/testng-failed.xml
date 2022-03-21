@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/Users/aya_tawfik/Desktop/VOIS/pom.xml(failed)">
+    <classes>
+      <class name="Youtube_Test">
+        <methods>
+          <include name="Testcase2"/>
+          <include name="Testcase3"/>
+          <include name="Testcase1"/>
+          <include name="Test_Base"/>
+        </methods>
+      </class> <!-- Youtube_Test -->
+    </classes>
+  </test> <!-- /Users/aya_tawfik/Desktop/VOIS/pom.xml(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
