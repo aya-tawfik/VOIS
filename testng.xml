@@ -4,7 +4,5 @@
     <test verbose="2" preserve-order="true" name="/Users/aya_tawfik/Desktop/VOIS/pom.xml">
     <classes>
     <class name= "aws_class"/>
-    </classes>
-        
-        
+    </classes>  
     </test></suite>
