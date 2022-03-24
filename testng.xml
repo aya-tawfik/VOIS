@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/aya_tawfik/Desktop/VOIS/pom.xml">
     <classes>
-    <class name= "API_Test"/>
+    <class name= "aws_class"/>
     </classes>
         
     </test></suite>
