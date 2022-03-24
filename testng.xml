@@ -5,4 +5,5 @@
     <classes>
     <class name= "aws_class"/>
     </classes>  
+        
     </test></suite>
